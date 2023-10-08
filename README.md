@@ -9,6 +9,7 @@ pip install uploadoss-0.1.tar.gz
 
 ## Usage
 Some simple things you can do with uploadoss
+
 ```
 #upload local file(Logs, CSV, and their gzip compression) to Alibaba Cloud OSS 
 
