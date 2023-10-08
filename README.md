@@ -3,9 +3,9 @@ Uploadoss is the general module of uploading database data and local files to th
 
 
 ## Installation
-download uploadoss-0.1.tar.gz
+download uploadoss-0.3.1.tar.gz
 https://pypi.org/project/uploadoss/#files
-pip install uploadoss-0.1.tar.gz
+pip install uploadoss-0.3.1.tar.gz
 
 ## Usage
 Some simple things you can do with uploadoss
