@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+setup.py
+uploadoss/__init__.py
+uploadoss/uploadoss.py
+uploadoss.egg-info/PKG-INFO
+uploadoss.egg-info/SOURCES.txt
+uploadoss.egg-info/dependency_links.txt
+uploadoss.egg-info/requires.txt
+uploadoss.egg-info/top_level.txt

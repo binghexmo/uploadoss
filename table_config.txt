@@ -1,0 +1,3 @@
+event_info\001
+event_info_1\001
+event_info_2\001select centre,eventdesc from event_info_2 

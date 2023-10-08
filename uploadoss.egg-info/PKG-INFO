@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: uploadoss
+Version: 0.3
+Summary: Uploadoss is the general module of uploading database data and local files to the Alibaba Cloud OSS
+Author: Binghe
+License-File: LICENSE.txt
